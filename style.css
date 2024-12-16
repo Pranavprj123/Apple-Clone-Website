@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.nav1 {
+    background-color: rgba(22, 22, 23, .8);
+    padding: 10px 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+
+.nav2 {
+    padding: 0px 12px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, .8);
+}
+
+.oneline {
+    text-align: center;
+}
+
+.image1>img {
+    width: 100%;
+    height: 500px;
+
+}
+
+.macbookmain{
+    background-color: rgb(250, 250, 250);
+}
+.headline{
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 1.07143;
+    letter-spacing: -.005em;
+}
+.subhead{
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 400;
+    letter-spacing: .007em;
+}
+.info{
+    padding-top: 39px;
+    text-align: center;
+}
+.macbutton{
+    text-align: center;
+}
+.macbutton a{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 17px;
+    min-width: 28px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.btn1{
+    background-color: #0071e3;
+    color: white;
+    border-color: rgba(0, 0, 0, 0);
+}
+a:hover{
+    background-color: #0071e3;
+    color: white;
+   
+}
+.macimg{
+    margin-top: 3px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.iphone15main{
+    background-color: #000;
+}
+.subhead2{
+    color: white;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 400;
+    letter-spacing: .007em;
+}
+
+.headline2{
+    color: white;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 1.07143;
+    letter-spacing: -.005em;
+}
+
+.iphoneimg{
+    margin-top: 3px;
+}
+
+.card1main{
+    display: flex;
+}
+
+.card1{
+   text-align:center;
+    margin:8px;
+    border: 0.4px solid;
+    border-radius: 4px;
+}
+.card2{
+    text-align: center;
+    margin: 8px;
+    border: 0.4px solid;
+    border-radius: 4px;
+}
+
+.button1{
+    text-align: center;
+}
+.button1 a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 17px;
+    min-width: 28px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+
+}
+
+.btn2{
+    background-color: #0071e3;
+    color: white;
+    border-color: rgba(0, 0, 0, 0);
+   
+}
+
+footer{
+    background-color: #00000010;
+    
+}
+footer p{
+    width: 80%;
+    margin: auto;
+}
+
+.coln{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 80%;
+}
+
+ul li{
+    list-style-type: none;
+}
